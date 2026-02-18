@@ -1,6 +1,6 @@
 # 📊 Amazon Prime Video Content Performance & Strategy Analysis
 
-![](amazon_cln.jpg)
+![](https://github.com/SubhadipPal16052000/Amazon-Prime-Content-Analysis/blob/main/Amazon_images.jpeg)
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow)
